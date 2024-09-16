@@ -1,3 +1,11 @@
+// código omitido
+
+# AllBooks
+
+Boas-vindas à API do Allbooks
+
+// código omitido
+
 # AllBooks
 
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
